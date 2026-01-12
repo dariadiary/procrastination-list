@@ -1,13 +1,14 @@
 # Procrastination List — A Cute Anti-Productivity App
 
 ## Project Description
-Procrastination List is a minimalist and cozy React app designed for jotting down tasks that you don’t really have to rush to complete 🙂
+Procrastination List is a minimalist and cozy React app designed for jotting down tasks that you don’t really have to rush to complete
 
 The visual style is warm and intentionally lazy — inspired by cute cats and a relaxed “do it later” mood.
+Illustrations in this project were generated with AI (ChatGPT) to support the visual concept of the app.
+
 
 **Technologies used:**
 - React (class-based components)
-- JSX
 - CSS3 (custom styling, Flexbox layout, responsive design, media queries)
 - Vite (build tool)
 - Netlify (deployment)
@@ -41,16 +42,15 @@ The app is fully responsive and works smoothly on mobile devices.
 ---
 
 ## Live Demo
-Have fun on Netlify 👉  
+Have some lazy fun on Netlify -->  
 https://procrastination-by-daria.netlify.app/
 
 ---
 
 ## About the Project
 This project was created as part of the **React course by Canshecode** and focuses on practicing:
-- functional and class-based components
+- class-based components
 - state management
 - event handling
-- conditional rendering
-- component composition
+- rendering
 - responsive UI layout
